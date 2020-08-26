@@ -1,2 +1,2 @@
 # File Manipulation Testing
- Defining functions to manipulate files and folders.
+ Defining functions to move and manipulate files and folders with python.
